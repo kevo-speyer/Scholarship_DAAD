@@ -1,0 +1,173 @@
+#LyX 2.1 created this file. For more info see http://www.lyx.org/
+\lyxformat 474
+\begin_document
+\begin_header
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman default
+\font_sans default
+\font_typewriter default
+\font_math auto
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100
+\font_tt_scale 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\use_hyperref false
+\papersize default
+\use_geometry false
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes false
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\end_header
+
+\begin_body
+
+\begin_layout Standard
+Previous Research Work
+\end_layout
+
+\begin_layout Standard
+Intro
+\end_layout
+
+\begin_layout Standard
+The Candidate, Kevin Speyer, holds years of experience performing research
+ of polymer physics and Soft Matter by computer simulations and wrote of
+ two publications in international peer reviewed journal.
+ 
+\end_layout
+
+\begin_layout Standard
+In his Licentiate Thesis (MS equivalent), entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Simulation of simple liquids confined in soft channels
+\begin_inset Quotes erd
+\end_inset
+
+, he studies a nanochannel with confining surfaces coated with grafted polymers.
+ In this work, the interaction between the liquid and the grafted polymers
+ is analyzed in equilibrium and in flow conditions.
+ Special attention has been taken in the influence of the bending rigidity
+ of the semiflexible polymers on the static and dynamical properties of
+ the system.
+ The interaction between the soft substrate and the liquid is hydrophobic,
+ giving rise to a Cassie–Baxter state.
+ Equilibrium properties such as brush height and bending energy were measured,
+ varying the grafting density and the stiffness of the polymers.
+ The characteristics of the brush–liquid interface and the morphology of
+ the polymer chains supporting the liquid are studied for different bending
+ rigidities.
+ Non-equilibrium simulations were performed, moving the walls of the channel
+ in opposite directions at constant speed, obtaining a Couette velocity
+ profile in the bulk liquid.
+ The molecular degrees of freedom of the polymers are studied as a function
+ of the shear rate.
+ Also, the violation of the no-slip boundary condition and the slip properties
+ are analyzed as a function of the shear rate, grafting density and bending
+ stiffness.
+ At high grafting densities, a finite slip length independent of the shear
+ rate or bending constant was found, while at low grafting densities a very
+ interesting non-monotonic dependence on the bending constant is observed.
+ This work was published in the journal 
+\shape italic
+Sofft Matter
+\shape default
+.
+ REF[1]
+\end_layout
+
+\begin_layout Standard
+In another study, the candidate analyzed the a system composed of a liquid
+ droplet in a nanochannel, coated with semiflexible hydrophobic polymers
+ by means of nonequilibrium molecular dynamics simulations.
+ The studied system is then a moving droplet in the slit channel, coexisting
+ with its vapor and subjected to periodic boundary conditions in the flow
+ direction.
+ The polymer chains, grafted by the terminal bead to the confining walls,
+ are described by a coarse-grained model that accounts for chain connectivity,
+ excluded volume interactions and local chain stiffness.
+ The rheological, frictional and dynamical properties of the brush are explored
+ over a wide range of persistence lengths.
+ We find a rich behavior of polymer conformations and concomitant changes
+ in the friction properties over the wide range of studied polymer stiffnesses.
+ A rapid decrease in the droplet velocity was observed as the rigidity of
+ the chains is increased for polymers whose persistence length is smaller
+ than their contour length.
+ We find a strong relation between the internal dynamics of the brush and
+ the droplet transport properties, which could be used to tailor flow properties
+ by surface functionalization.
+ The monomers of the brush layer, under the droplet, present a collective
+ “treadmill belt” like dynamics which can only be present due the existence
+ of grafted chains.
+ We describe its changes in spatial extension upon variations of polymer
+ stiffness, with bidimensional velocity and density profiles.
+ The deformation of the polymer brushes due to the presence of the droplet
+ is analyzed in detail.
+ Lastly, the droplet−gas interaction is studied by varying the liquid to
+ gas ratio, observing a 16% speed increase for droplets that flow close
+ to each other, compared to a train of droplets that present a large gap
+ between consecutive droplets.
+ 
+\end_layout
+
+\begin_layout Standard
+The candidate work on a daily basis on large computation clusters, running
+ coarse grain simulations in compiled languages, and performing post-processing
+ statistical analysis with scripting languages (python, awk).
+ He is familiar with various visualization tools for 3D atom dynamics (Visual
+ Molecular Dynamics), color plots and data visualization (python, Xmgrace,
+ gnuplot).
+ He has experience in High Performance Computing, parallelizing code in
+ non-trivial programs.
+\end_layout
+
+\end_body
+\end_document
