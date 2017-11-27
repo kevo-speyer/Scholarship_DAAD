@@ -195,7 +195,7 @@ The candidate works on a daily basis on large computation clusters, running
  Molecular Dynamics), color plots and data visualization (python, Xmgrace,
  gnuplot).
  He has experience in High Performance Computing, parallelizing code in
- non-trivial processes.
+ non-trivial programs.
 \begin_inset CommandInset bibtex
 LatexCommand bibtex
 bibfiles "biblio"
