@@ -1,0 +1,1030 @@
+#LyX 2.2 created this file. For more info see http://www.lyx.org/
+\lyxformat 508
+\begin_document
+\begin_header
+\save_transient_properties true
+\origin unavailable
+\textclass article
+\use_default_options true
+\maintain_unincluded_children false
+\language english
+\language_package default
+\inputencoding auto
+\fontencoding global
+\font_roman "default" "default"
+\font_sans "default" "default"
+\font_typewriter "default" "default"
+\font_math "auto" "auto"
+\font_default_family default
+\use_non_tex_fonts false
+\font_sc false
+\font_osf false
+\font_sf_scale 100 100
+\font_tt_scale 100 100
+\graphics default
+\default_output_format default
+\output_sync 0
+\bibtex_command default
+\index_command default
+\paperfontsize default
+\spacing single
+\use_hyperref false
+\papersize default
+\use_geometry true
+\use_package amsmath 1
+\use_package amssymb 1
+\use_package cancel 1
+\use_package esint 1
+\use_package mathdots 1
+\use_package mathtools 1
+\use_package mhchem 1
+\use_package stackrel 1
+\use_package stmaryrd 1
+\use_package undertilde 1
+\cite_engine basic
+\cite_engine_type default
+\biblio_style plain
+\use_bibtopic false
+\use_indices false
+\paperorientation portrait
+\suppress_date false
+\justification true
+\use_refstyle 1
+\index Index
+\shortcut idx
+\color #008000
+\end_index
+\leftmargin 2.6cm
+\topmargin 2.8cm
+\rightmargin 2.6cm
+\bottommargin 2.8cm
+\secnumdepth 3
+\tocdepth 3
+\paragraph_separation indent
+\paragraph_indentation default
+\quotes_language english
+\papercolumns 1
+\papersides 1
+\paperpagestyle default
+\tracking_changes true
+\output_changes false
+\html_math_output 0
+\html_css_as_file 0
+\html_be_strict false
+\author -8664667 "Claudio Pastorino"
+\end_header
+
+\begin_body
+
+\begin_layout Title
+DAAD Short-term grant Application
+\end_layout
+
+\begin_layout Section*
+Applicant: Lic.
+ Kevin Speyer
+\change_inserted -8664667 1511888941
+
+\end_layout
+
+\begin_layout Standard
+
+\end_layout
+
+\begin_layout Section
+Previous Research Work
+\end_layout
+
+\begin_layout Standard
+The candidate, Kevin Speyer, holds years of experience performing research
+ in polymer physics and Soft Matter by computer simulations
+\change_inserted -8664667 1511881644
+.
+
+\change_unchanged
+ 
+\change_deleted -8664667 1511881648
+and wrote
+\change_inserted -8664667 1511881652
+He published
+\change_unchanged
+ 
+\change_deleted -8664667 1511881653
+of
+\change_unchanged
+ two p
+\change_deleted -8664667 1511881656
+ublications
+\change_inserted -8664667 1511881658
+apers
+\change_unchanged
+ in international peer
+\change_inserted -8664667 1511881662
+-
+\change_deleted -8664667 1511881661
+ 
+\change_unchanged
+reviewed journals.
+ His main working subjects are Polymer Brushes, composed of semiflexible
+ chains anchored to the walls of a 
+\change_inserted -8664667 1511881682
+nano-
+\change_unchanged
+channel, and the interactions between this soft substrate and liquid flow
+ in nano-fluidic systems.
+ A wide range of physical quantities are measured in th
+\change_inserted -8664667 1511881692
+ese
+\change_deleted -8664667 1511881692
+is
+\change_unchanged
+ systems, from the molecular degrees of freedom to thermodynamic or rheological
+ properties.
+ The work is performed by means of Molecular Dynamics simulations, in the
+ context of Statistical Mechanics theory.
+ The applicant 
+\change_inserted -8664667 1511881761
+hold 
+\change_deleted -8664667 1511881760
+is a
+\change_unchanged
+ PhD
+\change_inserted -8664667 1511881774
+ CONICET scholarship
+\change_unchanged
+ 
+\change_deleted -8664667 1511881756
+candidate
+\change_inserted -8664667 1511881778
+working
+\change_unchanged
+ in the Theory and Simulation of Soft Matter Gr
+\change_inserted -8664667 1511881708
+o
+\change_unchanged
+up of the National Atomic Energy Commission (
+\change_inserted -8664667 1511881793
+CAC-
+\change_unchanged
+CNEA) in Argentina.
+ The group has a history of collaboration with the Soft Matter Theory Group
+ of Prof.
+ Dr.
+ Marcus Müller in Göttingen.
+ The applicant's supervisor, Dr.
+ Claudio Pastorino, has a vast experience in polymer physics theory and
+ simulation, 
+\change_inserted -8664667 1511881812
+and 
+\change_unchanged
+is now a researcher 
+\change_inserted -8664667 1511881817
+in
+\change_deleted -8664667 1511881816
+for
+\change_inserted -8664667 1511881822
+ CNEA and
+\change_unchanged
+ CONICET at CAC-CNEA
+\change_deleted -8664667 1511881828
+, and has performed a Postdoc in Germany.
+\change_unchanged
+
+\end_layout
+
+\begin_layout Standard
+In his 
+\change_inserted -8664667 1511881856
+Diplomma
+\change_deleted -8664667 1511881852
+Licentiate
+\change_unchanged
+ Thesis (MS equivalent), entitled 
+\begin_inset Quotes eld
+\end_inset
+
+Simulation of simple liquids confined in soft channels
+\begin_inset Quotes erd
+\end_inset
+
+, the candidate studie
+\change_inserted -8664667 1511881837
+d
+\change_deleted -8664667 1511881837
+s
+\change_unchanged
+ a nanochannel with confining surfaces coated with grafted polymers.
+ In this work, the interaction between the liquid and the grafted polymers
+ is analyzed in equilibrium and in flow conditions.
+ 
+\change_deleted -8664667 1511881928
+Special attention has been taken in
+\change_inserted -8664667 1511881943
+This first study was focused on
+\change_unchanged
+ the influence of the bending rigidity of the semiflexible polymers on the
+ static and dynamical properties of the system.
+ The interaction between the soft substrate and the liquid is hydrophobic,
+ giving rise to a Cassie–Baxter state.
+ Equilibrium properties such as brush height and bending energy were measured,
+ varying the grafting density (number of chains per surface area) and the
+ stiffness of the polymers.
+ The characteristics of the brush–liquid interface and the morphology of
+ the polymer chains supporting the liquid 
+\change_inserted -8664667 1511882094
+were
+\change_deleted -8664667 1511882092
+are
+\change_unchanged
+ studied for different bending rigidities.
+ Non-equilibrium simulations were performed, moving the walls of the channel
+ in opposite directions at constant speed, obtaining a Couette velocity
+ profile in the bulk liquid.
+ The molecular degrees of freedom of the polymers are studied as a function
+ of the shear rate.
+ 
+\change_deleted -8664667 1511882121
+Also, t
+\change_inserted -8664667 1511882123
+T
+\change_unchanged
+he violation of the no-slip boundary condition and the slip properties 
+\change_inserted -8664667 1511885077
+were 
+\change_deleted -8664667 1511882130
+are
+\change_unchanged
+ analyzed as a function of the shear rate, grafting density and bending
+ stiffness.
+ At high grafting densities, a finite slip length independent of the shear
+ rate or bending constant was found, while at low grafting densities a very
+ interesting non-monotonic dependence on the bending constant is observed.
+ This work was published in the journal 
+\shape italic
+Soft Matter
+\shape default
+
+\begin_inset CommandInset citation
+LatexCommand cite
+key "C5SM01075F"
+
+\end_inset
+
+.
+\end_layout
+
+\begin_layout Standard
+In another study, the candidate analyzed 
+\change_deleted -8664667 1511887047
+the
+\change_unchanged
+ a system composed of a liquid droplet in a nanochannel, coated with semiflexibl
+e hydrophobic polymers by means of non-equilibrium molecular dynamics simulation
+s.
+ The studied system is then a moving droplet in a slit-like channel, coexisting
+ with its vapor phase.
+ The polymer chains, grafted by the terminal bead to the confining walls,
+ are described by a coarse-grained model that accounts for chain connectivity,
+ excluded volume interactions and local chain stiffness.
+ The rheological, frictional and dynamical properties of the brush are explored
+ over a wide range of persistence lengths.
+ A rich behavior of polymer conformations and concomitant changes in the
+ friction properties are found over the wide range of studied polymer stiffnesse
+s.
+ A rapid decrease in the droplet velocity was observed as the rigidity of
+ the chains is increased for polymers whose persistence length is smaller
+ than their contour length.
+ A strong relation between the internal dynamics of the brush and the droplet
+ transport properties is found, which could be used to tailor flow properties
+ by surface functionalization.
+ The monomers of the brush layer, under the droplet, present a collective
+ “treadmill belt” like dynamics which can only be present due the existence
+ of grafted chains.
+ The changes in spatial extension upon variations of polymer stiffness are
+ described, with bidimensional velocity and density profiles.
+ The deformation of the polymer brushes due to the presence of the droplet
+ is analyzed in detail.
+ Lastly, the droplet−gas interaction is studied by varying the liquid to
+ gas ratio, observing a speed increase for droplets that flow close to each
+ other, compared to a train of droplets that present a large gap between
+ consecutive droplets.
+ These results were recently published in 
+\shape italic
+Langmuir
+\begin_inset CommandInset citation
+LatexCommand cite
+key "doi:10.1021/acs.langmuir.7b02640"
+
+\end_inset
+
+
+\change_inserted -8664667 1511887382
+ 
+\emph on
+journal
+\change_unchanged
+
+\emph default
+.
+\end_layout
+
+\begin_layout Standard
+The candidate works on a daily basis on large computation clusters, running
+ coarse grain simulations in compiled languages, and performing post-processing
+ statistical analysis with scripting languages (python, awk).
+ He is familiar with various visualization tools for 3D atom dynamics (Visual
+ Molecular Dynamics), color plots and data visualization (python, Xmgrace,
+ gnuplot).
+ He has experience in High Performance Computing, parallelizing code in
+ non-trivial processes.
+\change_inserted -8664667 1511889597
+
+\end_layout
+
+\begin_layout Section
+
+\change_inserted -8664667 1511889604
+Working Project
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\change_inserted -8664667 1511900781
+Using large-scale computer simulation of coarse-grained polymer models we
+ propose the study of non-equilibrium behavior of active polymer brushes.
+ This soft-matter system mimics active biological systems capable of directed
+ transport.
+ The system also exhibits an intricate, non-equilibrium single-chain dynamics
+ (
+\begin_inset Quotes eld
+\end_inset
+
+tumbling motion
+\begin_inset Quotes erd
+\end_inset
+
+), and our simulation study will elucidate to what extent the individual
+ molecular motions are coupled and synchronized (spatiotemporal correlations)
+ and how the molecular motion interacts and dictates the collective structure
+ and flow field.
+ The project takes advantage also of the strong experience of the applicant
+ in semi-flexible polymer brushes, but adding the important element of chain
+ activeness.
+ A given energy per unit time will be injected in each grafted polymer to
+ obtain a self-sustained oscillation of the polymers, which will give raise
+ to a collective behavior depending on chain-stifness, grafting density
+ and the properties of the liquid.
+ The student will have the opportunity to learn about modern concepts of
+ non-equilibrium statistical mechanics and state-of-the-art simulation technique
+s on clusters of CPUs and GPUs.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511887578
+\begin_inset VSpace 0.5cm*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Subsection
+\noindent
+
+\change_inserted -8664667 1511887578
+
+\series bold
+Goals
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511900915
+Polymers in flow have attracted abiding interest by experiments and theory.
+ By irreversibly grafting a polymer onto a solid substrate one fabricates
+ brush coatings that are both, mechanically stable as well as versatile
+ for tuning the wettability and friction of the coated surface.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Zhao00"
+
+\end_inset
+
+ In our previous collaboration we have developed and utilized coarse-grained
+ computer simulations to study polymer brushes under flow,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pastorino_06,Pastorino_07,Pastorino_09,Mueller_09"
+
+\end_inset
+
+ studied how the brush coating dictates the hydrodynamic boundary condition,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mueller_08,Leonforte_11"
+
+\end_inset
+
+ and studied the tumbling motion of the individual grafted macromolecules
+ and the concomitant reversal of the near-surface flow under shear.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mueller_08b,Pastorino_14"
+
+\end_inset
+
+.
+ We propose now to extend our study to collective phenomena in active polymer
+ brushes, which exhibit collective, non-equilibrium phenomena.
+ 
+\begin_inset Note Note
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511900903
+Our joint project will explore the similarities and difference between these
+ two systems and thereby contribute to a better understanding of non-equilibrium
+ polymer systems.
+ In the following, we introduce the two soft-matter systems and outline
+ our research goals in turn.
+\change_unchanged
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511887578
+\begin_inset VSpace 0.3cm*
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+\noindent
+
+\change_inserted -8664667 1511887578
+The coating of the surfaces with immobilized polymers alters the flow properties
+ in the ultimate vicinity of the coated surface.
+ These boundary effects become particular important in microfluidic devices
+ that manipulate confined liquids at the pico-liter scale, electroosmotic
+ flow, or vascular biological systems.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Weinbaum_03"
+
+\end_inset
+
+ Much interest has focused on driving the liquid motion externally, e.g.,
+ by a pressure difference, shear of confining boundaries, or an electric
+ field.
+ Such conditions are particularly relevant for applications such as lab-on-chip
+ devices,
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Squires_05,tabelling_microfluidics"
+
+\end_inset
+
+ controlled drug delivery, functionalized surfaces and sensing at the nano-scale.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511887578
+Active particles and polymers in biological context or active, synthetic
+ realizations constitute an alternative driving mechanism that has attracted
+ much recent attention.
+ In these systems, the active entities possess internal degrees of freedom
+ that enable them to take energy from the environment and perform mechanical
+ work in the form of, e.g., systematic movements.
+ Active systems under study range from bacteria
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Ramaswamy_10"
+
+\end_inset
+
+ or spermatozoa, to smaller functional units of cells and micro-organisms
+ such as cilia, flagella and molecular motors.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Cates_11,Elgeti_15"
+
+\end_inset
+
+ These last cases include also so-called micro-swimmers of biological origin,
+ such as opalinas and chlamydomonas or synthetic experimental systems such
+ as self-propelled droplets, catalytic Janus colloids or thermophoretic
+ nano-particles.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Elgeti_15"
+
+\end_inset
+
+ Understanding the mechanisms how the coupling among active units results
+ in directional motion 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Elgeti_13,Lauga_09,Bennett_2013,Backholm_14,Pande_15"
+
+\end_inset
+
+ and the collective states of these active materials is of great current
+ interest.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511887578
+The coordinated motion of cilia, which are comprised of active, semiflexible
+ filaments anchored to a surface, can give rise to directed motion of micro-orga
+nisms in nature or to pumping of fluids in certain tissues.
+ For example, cilia in the human respiratory tract pump viscous fluids away
+ from the lungs or propel dust particles out of the body.
+ This amazing function and the efficiency of cilia transport has stimulated
+ research groups to design synthetic analogues in order to regulate flow
+ or particle motion in microfluidic devices.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511901703
+We propose to study planar nano-channels coated by active polymers, end-grafted
+ to the confining walls of a narrow slit channel.
+ The system is a generalization of semi-flexible polymer brushes, which
+ have been previously studied thoroughly by the applicant.
+ For this project we add a protocol energy injection which gives raise to
+ self-sustained movement.
+ Fig.
+ 
+\begin_inset CommandInset ref
+LatexCommand ref
+reference "fig_brushes"
+
+\end_inset
+
+ presents preliminary examples of these systems.
+ We have already developed a coarse-grained beating model for the individual
+ chains that captures the essential features of the movement of typical
+ active filaments, such as cilia or flagellae.
+ A cilium filament, for example, presents a power stroke and a recovery
+ stroke.
+ In the former the cilium stretches out and moves rather fast in one direction.
+ In the recovery stroke, in turn, the cilium bends and slowly retracts.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Elgeti_15"
+
+\end_inset
+
+ We reproduced this asymmetric beating pattern with our coarse-grained model.
+ This motion results from an internal activity or is driven by coupling
+ to an external, time-dependent field.
+ A deep characterization of this model must be done in dry brushes, to study
+ then the liquid transport due to the collective motion of active grafted
+ polymers.
+ Specifically, we propose two types of couplings between self-sustained
+ polymer chains.
+ The first one is given by the direct interaction between neighboring chains
+ and the second one is an harmoning coupling of neighboring chains close
+ to the grafting point.
+ 
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511887578
+\begin_inset ERT
+status open
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+
+
+\backslash
+providecommand{
+\backslash
+tabularnewline}{
+\backslash
+
+\backslash
+}
+\end_layout
+
+\end_inset
+
+ 
+\begin_inset Float figure
+wide false
+sideways false
+status open
+
+\begin_layout Plain Layout
+\align center
+
+\change_inserted -8664667 1511887578
+\begin_inset Tabular
+<lyxtabular version="3" rows="1" columns="3">
+<features tabularvalignment="middle">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<column alignment="center" valignment="top">
+<row>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+\begin_inset Graphics
+	filename Brushes2.png
+	lyxscale 60
+	width 26col%
+	clip
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+\begin_inset Graphics
+	filename ../../../proyectos_subsidios/DAAD/MINCYT_DAAD_16/Muestra1.png
+	lyxscale 60
+	width 28col%
+	clip
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+</cell>
+<cell alignment="center" valignment="top" usebox="none">
+\begin_inset Text
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+\begin_inset Graphics
+	filename ../../../proyectos_subsidios/DAAD/MINCYT_DAAD_16/active_brush.png
+	lyxscale 50
+	width 28col%
+	clip
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+</cell>
+</row>
+</lyxtabular>
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+\begin_inset Caption Standard
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511887578
+Left panel: Grafted polymer layers with increasing stiffness, which is parameter
+ized by the bending constant 
+\begin_inset Formula $k_{f}$
+\end_inset
+
+.
+ Center panel: Planar channel filled with liquid confined between two stiff
+ polymer brush layers with 
+\begin_inset Formula $k_{f}=80$
+\end_inset
+
+.
+ Right panel: Illustration of an active brush oscillating with the same
+ phase (phase-locked state, grafting points arranged on square lattice).
+ 
+\begin_inset CommandInset label
+LatexCommand label
+name "fig_brushes"
+
+\end_inset
+
+ 
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511901807
+The applicant will study the synchronization of the polymers of the active
+ brush and their interaction with the liquid: 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511887578
+What is the relative importance of mechanical/steric and hydrodynamic interactio
+ns in the collective dynamics of the polymer chains? 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511887578
+How do synchronized, active brushes produce directed flow in a nano-channel?
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511887578
+What are the effects of the interaction with the liquid on the local dynamics
+ of active chains and synchronization, when the liquid is exposed to (external)
+ shear? 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511901755
+Methachronal waves are frequently observed in biological cilia, i.e., there
+ are regions of perfect synchronization surrounded by disordered beating
+ patterns.
+ We want to address also the origin of these collective features and the
+ relationship with the liquid flow in the channel.
+ 
+\end_layout
+
+\begin_layout Subsection
+\noindent
+
+\change_inserted -8664667 1511901756
+
+\series bold
+Methodology
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511901929
+We will use coarse-grained molecular dynamics simulations of coarse-grained
+ bead-spring models.
+ The active polymer brushes are described by the Kremer-Grest model, 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Grest_86,Kremer_90"
+
+\end_inset
+
+ where segments interact via a Lennard-Jones potential describing the harsh
+ excluded volume of individual segments.
+ A Finite Non-linear Extensively Elastic (FENE) potential accounts for the
+ chain connectivity.
+ We have used this model in our previous joint work on polymer brushes.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Pastorino_06,Pastorino_09,Pastorino_14"
+
+\end_inset
+
+ Additionally, we apply a harmonic bending potential between two consecutive
+ bonds that connect a given monomer with its two nearest neighbors in order
+ to tune the rigidity of the semi-flexible polymer chain.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Speyer_15"
+
+\end_inset
+
+.
+ The applicant has an important experience in the study of semi-flexible
+ brushes under flow and has implemented the bending rigidity of the polymer
+ chains.
+ Importantly the combination of harsh excluded-volume interactions between
+ segments and a maximal bond length guarantees that chain contours cannot
+ cross through each other in the course of the simulation.
+ These entanglement effects that dramatically alter the dynamics in dense
+ melts of long polymers, may be important for the synchronization of the
+ active polymers.
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511901977
+We are planning the use of molecular dynamics simulation with a DPD (or
+ Lowe-Anderson) thermostat.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "DPD1,Lowe"
+
+\end_inset
+
+ This pairwise thermostat obeys translation invariance and locally conserves
+ momentum, thereby duly accounting for hydrodynamic interactions that are
+ mediated via the explicit solvent.
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mueller_09,Pastorino_07,Pastorino_15"
+
+\end_inset
+
+ We have experience in using this simulation techniques to study isothermal
+ flows in nano-channels.
+ 
+\begin_inset CommandInset citation
+LatexCommand cite
+key "Mueller_08b,Pastorino_15,Pastorino_14,Leonforte_11"
+
+\end_inset
+
+
+\end_layout
+
+\begin_layout Standard
+
+\change_inserted -8664667 1511902271
+The simulations of active brushes will be performed by a MPI-parallel simulation
+ code that is well suited for computer clusters, but the applicant will
+ learn the use and programing of a GPU-program that is based on the HOOMD
+ code (see http://glotzerlab.engin.umich.edu/hoomd-blue), in his visit to Göttingen.
+ 
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511901756
+
+%%CP: does not compile refs properly
+\end_layout
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511901756
+
+\end_layout
+
+\end_inset
+
+
+\begin_inset ERT
+status collapsed
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511901756
+
+%%
+\backslash
+footnote{
+\backslash
+url{http://glotzerlab.engin.umich.edu/hoomd-blue}}
+\end_layout
+
+\begin_layout Plain Layout
+
+\change_inserted -8664667 1511901756
+
+\end_layout
+
+\end_inset
+
+The latter allows for large-scale simulations on clusters of GPUs that are
+ available at the von-Neumann Institute for Computing in Jülich and the
+ Argentinian group will strongly benefit of this knowledge.
+\end_layout
+
+\begin_layout Subsection
+
+\change_inserted -8664667 1511902290
+Detailed work plan
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902262
+Channel with explicit solvent: synchronization and hydrodynamic coupling
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902491
+An explicit solvent will be added to channel coated by active brushes, described
+ by Lennard-Jones particles, to account for momentum conservation and the
+ concomitant hydrodynamic interactions, taking advantage of the experience
+ of the German group.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902385
+We will analyze the effect of solvent-mediated hydrodynamic coupling between
+ active chains and characterize changes in the collective chain dynamics,
+ as compared to the case of elastic coupling alone (in dry brushes).
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902262
+Liquid flow with synchronized chain dynamics
+\end_layout
+
+\begin_deeper
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902262
+Imposing coordinated movement to the chains, mimicking typical cilia dynamics,
+ we will study the flow generated in the solvent.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902262
+Upper and lower active brush layers of the slit channel will be studied
+ as a function of polymer beating frequency, amplitude, and direction.
+ Directed flow in the vicinity of the individual active brush layers can
+ be achieved by choosing parameters that result in synchronization (obtained
+ in the previous task using the 
+\begin_inset Quotes eld
+\end_inset
+
+dry channel
+\begin_inset Quotes erd
+\end_inset
+
+), or by imposing a phase-locked dynamics with a time-dependent external
+ force.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902555
+Special interesting cases are in-phase movement of active upper and lower
+ brushes and anti-phase movement of upper and lower grafted layers.
+ If the polymers drive locally the fluid, the in-phase movement is expected
+ to produce a plug flow, whereas the anti-phase movement results in shear
+ flow.
+ 
+\end_layout
+
+\begin_layout Itemize
+
+\change_inserted -8664667 1511902617
+A parallelization scheme with GPU of some parts of the code will be studied
+ and implemented by the applicant wiht the help of the Prof.
+ Müller and his group.
+ 
+\end_layout
+
+\end_deeper
+\begin_layout Standard
+\begin_inset CommandInset bibtex
+LatexCommand bibtex
+bibfiles "biblio,c_refs,bibtex"
+options "plain"
+
+\end_inset
+
+
+\end_layout
+
+\end_body
+\end_document
