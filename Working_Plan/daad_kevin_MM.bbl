@@ -1,0 +1,177 @@
+\begin{thebibliography}{10}
+
+\bibitem{Zhao00}
+B.~Zhao and W.~J. Brittain.
+\newblock Polymer brushes: Surface-immobilized macromolecules.
+\newblock {\em Prog. Polym. Sci.}, 25:677--710, 2000.
+
+\bibitem{NatMat}
+M.~A.~C. Stuart, W.~T.~S. Huck, J.~Genzer, M.~M{\"u}ller, C.~Ober, M.~Stamm,
+  G.~B. Sukhorukov, I.~Szleifer, V.~V. Tsukruk, M.~Urban, F.~Winnik,
+  S.~Zauscher, I.~Luzinov, and S.~Minko.
+\newblock Emerging applications of stimuli-responsive polymer materials.
+\newblock {\em Nature Materials}, 9:101--113, 2010.
+
+\bibitem{Santer06}
+S.~Santer, A.~Kopyshev, J.~Donges, H.~K. Yang, and J.~R{\"u}he.
+\newblock Dynamically reconfigurable polymer films: Impact on nanomotion.
+\newblock {\em Adv. Mater.}, 18:2359, 2006.
+
+\bibitem{Speyer_15}
+K.~Speyer and C.~Pastorino.
+\newblock Brushes of semiflexible polymers in equilibrium and under flow in a
+  super-hydrophobic regime.
+\newblock {\em Soft Matter}, 11:5473--5484, 2015.
+
+\bibitem{doi:10.1021/acs.langmuir.7b02640}
+K.~Speyer and C.~Pastorino.
+\newblock Droplet transport in a nanochannel coated by hydrophobic semiflexible
+  polymer brushes: The effect of chain stiffness.
+\newblock {\em Langmuir}, 33(40):10753--10763, 2017.
+\newblock PMID: 28892398.
+
+\bibitem{Pastorino_06}
+C.~Pastorino, K.~Binder, T.~Kreer, and M.~M{\"u}ller.
+\newblock Static and dynamic properties of the interface between a polymer
+  brush and a melt of identical chains.
+\newblock {\em J. Chem. Phys.}, 124:064902, 2006.
+
+\bibitem{Pastorino_07}
+C.~Pastorino, T.~Kreer, M.~M{\"u}ller, and K.~Binder.
+\newblock Comparison of dissipative particle dynamics and langevin thermostats
+  for out-of-equilibrium simulations of polymeric systems.
+\newblock {\em Phys. Rev. E}, 76:026706, Aug 2007.
+
+\bibitem{Pastorino_09}
+C.~Pastorino, K.~Binder, and M.~M{\"u}ller.
+\newblock Coarse-grained description of a brush-melt interface in equilibrium
+  and under flow.
+\newblock {\em Macromolecules}, 42(1):401--410, 2009.
+
+\bibitem{Mueller_09}
+M.~M{\"u}ller, C.~Pastorino, and J.~Servantie.
+\newblock Hydrodynamic boundary condition of polymer melts at simple and
+  complex surfaces.
+\newblock {\em Computer Physics Communications}, 180(4):600 -- 604, 2009.
+\newblock Special issue based on the Conference on Computational Physics 2008 -
+  CCP 2008.
+
+\bibitem{Mueller_08}
+M~M{\"u}ller, C~Pastorino, and J~Servantie.
+\newblock Flow, slippage and a hydrodynamic boundary condition of polymers at
+  surfaces.
+\newblock {\em Journal of Physics: Condensed Matter}, 20(49):494225, 2008.
+
+\bibitem{Leonforte_11}
+F~L{\'e}onforte, J~Servantie, C~Pastorino, and M~M{\"u}ller.
+\newblock Molecular transport and flow past hard and soft surfaces: computer
+  simulation of model systems.
+\newblock {\em Journal of Physics: Condensed Matter}, 23(18):184105, 2011.
+
+\bibitem{Mueller_08b}
+M.~M{\"u}ller and C.~Pastorino.
+\newblock Cyclic motion and inversion of surface flow direction in a dense
+  polymer brush under shear.
+\newblock {\em Europhys. Lett.}, 81:28002, 2008.
+
+\bibitem{Pastorino_14}
+C.~Pastorino and M~M\"uller.
+\newblock Mixed brush of chemically and physically adsorbed polymers under
+  shear: Inverse transport of the physisorbed species.
+\newblock {\em The Journal of Chemical Physics}, 140(1):166--174, 2014.
+
+\bibitem{Weinbaum_03}
+Sheldon Weinbaum, Xiaobing Zhang, Yuefeng Han, Hans Vink, and Stephen~C. Cowin.
+\newblock Mechanotransduction and flow across the endothelial glycocalyx.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  100(13):7988--7995, 2003.
+
+\bibitem{Squires_05}
+T.~M. Squires and S.~R. Quake.
+\newblock Microfluidics: Fluid physics at the nanoliter scale.
+\newblock {\em Rev. Mod. Phys.}, 77:977, 2005.
+
+\bibitem{tabelling_microfluidics}
+P.~Tabelling.
+\newblock {\em Introduction to Microfluidics}.
+\newblock Oxford, 2006.
+
+\bibitem{Ramaswamy_10}
+Sriram Ramaswamy.
+\newblock The mechanics and statistics of active matter.
+\newblock {\em Annual Review of Condensed Matter Physics}, 1(1):323--345, 2010.
+
+\bibitem{Cates_11}
+Michael~E. Cates and Fred~C. MacKintosh.
+\newblock Active soft matter.
+\newblock {\em Soft Matter}, 7:3050--3051, 2011.
+
+\bibitem{Elgeti_15}
+J~Elgeti, R~G Winkler, and G~Gompper.
+\newblock Physics of microswimmers: single particle motion and collective
+  behavior: a review.
+\newblock {\em Reports on Progress in Physics}, 78(5):056601, 2015.
+
+\bibitem{Elgeti_13}
+Jens Elgeti and Gerhard Gompper.
+\newblock Emergence of metachronal waves in cilia arrays.
+\newblock {\em Proceedings of the National Academy of Sciences},
+  110(12):4470--4475, 2013.
+
+\bibitem{Lauga_09}
+Eric Lauga and Thomas~R Powers.
+\newblock The hydrodynamics of swimming microorganisms.
+\newblock {\em Reports on Progress in Physics}, 72(9):096601, 2009.
+
+\bibitem{Bennett_2013}
+Rachel~R. Bennett and Ramin Golestanian.
+\newblock Emergent run-and-tumble behavior in a simple model of
+  \textit{Chlamydomonas} with intrinsic noise.
+\newblock {\em Phys. Rev. Lett.}, 110:148102, Apr 2013.
+
+\bibitem{Backholm_14}
+Matilda Backholm, Rafael~D. Schulman, William~S. Ryu, and Kari Dalnoki-Veress.
+\newblock Tangling of tethered swimmers: Interactions between two nematodes.
+\newblock {\em Phys. Rev. Lett.}, 113:138101, Sep 2014.
+
+\bibitem{Pande_15}
+Jayant Pande and Ana-Suncana Smith.
+\newblock Forces and shapes as determinants of micro-swimming: effect on
+  synchronisation and the utilisation of drag.
+\newblock {\em Soft Matter}, 11:2364--2371, 2015.
+
+\bibitem{Grest_86}
+Gary~S. Grest and Kurt Kremer.
+\newblock Molecular dynamics simulation for polymers in the presence of a heat
+  bath.
+\newblock {\em Phys. Rev. A}, 33:3628--3631, May 1986.
+
+\bibitem{Kremer_90}
+Kurt Kremer and Gary~S. Grest.
+\newblock Dynamics of entangled linear polymer melts: A molecular dynamics
+  simulation.
+\newblock {\em The Journal of Chemical Physics}, 92(8):5057--5086, 1990.
+
+\bibitem{DPD1}
+P.~J. Hoogerbrugge and J.~M. V.~A. Koelman.
+\newblock Simulating microscopic hydrodynamics phenomena with dissipative
+  particle dynamics.
+\newblock {\em Europhys. Lett}, 19:155, 1992.
+
+\bibitem{Lowe}
+E.~A. Koopman and C.~P. Lowe.
+\newblock Advantages of a lowe-andersen thermostat in molecular dynamics
+  simulations.
+\newblock {\em J. Chem. Phys.}, 124:204103, 2006.
+
+\bibitem{Pastorino_15}
+C.~Pastorino and A.Gama Goicochea.
+\newblock Dissipative particle dynamics: A method to simulate soft matter
+  systems in equilibrium and under flow.
+\newblock In Jaime Klapp, Gerardo Ru{\'i}z~Chavarr{\'i}a, Abraham
+  Medina~Ovando, Abel L{\'o}pez~Villa, and Leonardo Di~G. Sigalotti, editors,
+  {\em Selected Topics of Computational and Experimental Fluid Mechanics},
+  Environmental Science and Engineering, pages 51--79. Springer International
+  Publishing, 2015.
+
+\end{thebibliography}
